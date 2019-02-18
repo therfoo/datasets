@@ -1,2 +1,2 @@
-# data
+# Datasets
 A list of open source datasets to use with Therfoo ML module.
